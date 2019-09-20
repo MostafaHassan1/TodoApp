@@ -3,8 +3,9 @@
 
 ## Installation
 
-1-open the project in your VS Code editor 
-2-open terminal (ctrl+`) and write 
+open the project in your VS Code editor 
+
+open terminal (ctrl+`) and write 
 ```bash
 composer install
 ```
